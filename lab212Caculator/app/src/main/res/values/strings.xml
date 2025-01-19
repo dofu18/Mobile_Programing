@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab2.1.2.Caculator</string>
+    <string name="rs2_academy">RS2 ACADEMY</string>
+    <string name="s_th_nh_t">Số thứ nhất:</string>
+    <string name="s_th_hai">Số thứ hai:</string>
+    <string name="c_ng">Cộng</string>
+    <string name="tr">Trừ</string>
+    <string name="nh_n">Nhân</string>
+    <string name="chia">Chia</string>
+    <string name="k_t_qu">Kết quả:</string>
+</resources>
