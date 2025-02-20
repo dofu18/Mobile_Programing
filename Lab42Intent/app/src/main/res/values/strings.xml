@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Slot7.1.1.Intent</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="intent_main">Intent Main</string>
+    <string name="intent_second">Intent Second</string>
+    <string name="mainactivity">MainActivity</string>
+    <string name="secondactivity">SecondActivity</string>
+</resources>
