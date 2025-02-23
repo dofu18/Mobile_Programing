@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnSelectFood"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chọn thức ăn" />
+
+    <TextView
+        android:id="@+id/txtSelectedFood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Món ăn đã chọn: "
+        android:padding="8dp" />
+
+    <Button
+        android:id="@+id/btnSelectDrink"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chọn đồ uống" />
+
+    <TextView
+        android:id="@+id/txtSelectedDrink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Đồ uống đã chọn: "
+        android:padding="8dp" />
+</LinearLayout>
